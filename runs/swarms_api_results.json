@@ -1,0 +1,25 @@
+{
+  "user": {
+    "username": "swarms_user_6957",
+    "api_key": "VDo3JRFndk5DYgLJt740ckfFv1Icv1MqE-onGijcDXk",
+    "user_id": "c0733967-5aeb-4317-8de1-701896fb4339"
+  },
+  "agent": {
+    "agent_id": "e656cee9-5c07-4e5f-a258-2c799d1af4db",
+    "agent_name": "Agent_swarms_user_6957"
+  },
+  "completion": {
+    "prompt": "What is the capital of France?",
+    "response": "API returned no response",
+    "metadata": {
+      "agent_name": "Agent_swarms_user_6957"
+    },
+    "timestamp": "2024-12-27T02:50:28.314012",
+    "processing_time": 0.960093,
+    "token_usage": {
+      "prompt_tokens": 7,
+      "completion_tokens": 1,
+      "total_tokens": 9
+    }
+  }
+}

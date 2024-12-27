@@ -1,0 +1,25 @@
+{
+  "user": {
+    "username": "user_5414",
+    "api_key": "cVXc9Qaa1shOHnI-10Gjz3SalktIL2ZhWFPyv00Rowo",
+    "user_id": "82401452-e474-47a1-b4b3-87bcfa916c8d"
+  },
+  "agent": {
+    "agent_id": "07c193db-b794-4cdc-bedb-353720fc36a5",
+    "agent_name": "Agent_user_5414"
+  },
+  "completion": {
+    "prompt": "What is the capital of France?",
+    "response": "API returned no response",
+    "metadata": {
+      "agent_name": "Agent_user_5414"
+    },
+    "timestamp": "2024-12-27T01:51:11.339171",
+    "processing_time": 0.84238,
+    "token_usage": {
+      "prompt_tokens": 7,
+      "completion_tokens": 1,
+      "total_tokens": 9
+    }
+  }
+}
